@@ -1,4 +1,4 @@
-# ft_printf (42Porto - 42Cursus) <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Logo" width="55" height="55" align="right" />&nbsp;
+# ft_printf (42Porto - 42Cursus)
 ## Grade: 100/100
 
 This project is pretty straight forward. It's about recoding the printf function in C, using my own library of re-coded functions, and learning how to manipulate variadic functions and it's arguments.
